@@ -107,10 +107,35 @@ Q(t+1)=T′Q(t)+TQ(t)′
 
 
 ### PROGRAM 
+
+D flip flop:
+
+
+![Exp5 dfp code](https://github.com/bsanjaykumar560/Experiment--05-Implementation-of-flipflops-using-verilog/assets/145954153/29a76b1b-15c7-4565-84dd-6b96bdfb434c)
+
+
+JK flip flop:
+
+
+![Exp5 jkfp code](https://github.com/bsanjaykumar560/Experiment--05-Implementation-of-flipflops-using-verilog/assets/145954153/b8cab9e9-3ef0-45b3-8f38-844cf688647c)
+
+
+SR flip flop:
+
+
+
+![Exp5 srfp code](https://github.com/bsanjaykumar560/Experiment--05-Implementation-of-flipflops-using-verilog/assets/145954153/48aa5029-db72-4fe2-86a3-c7c3600588b2)
+
+
+
+
+output:
+
+
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: SANJAY KUMAR.B
+RegisterNumber:  23004077
 */
 
 
@@ -120,7 +145,27 @@ RegisterNumber:
 
 ### RTL LOGIC FOR FLIPFLOPS 
 
+D flip flop:
 
+
+
+![Exp5 dfp RTL diagram](https://github.com/bsanjaykumar560/Experiment--05-Implementation-of-flipflops-using-verilog/assets/145954153/8a6b62c3-3323-4dcc-b60a-8822bdc25bc2)
+
+
+
+JK flip flop:
+
+
+
+![Exp5 jkfp RTL diagram](https://github.com/bsanjaykumar560/Experiment--05-Implementation-of-flipflops-using-verilog/assets/145954153/1491af4f-fd74-4334-8d82-9495d1d1a8c1)
+
+
+
+SR flip flop:
+
+
+
+![Exp5 srfp RTL diagram](https://github.com/bsanjaykumar560/Experiment--05-Implementation-of-flipflops-using-verilog/assets/145954153/21ca62d1-2337-43d5-a10b-7a258cc453b0)
 
 
 
@@ -129,6 +174,28 @@ RegisterNumber:
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
+D flip flop:
+
+
+
+![d wave](https://github.com/bsanjaykumar560/Experiment--05-Implementation-of-flipflops-using-verilog/assets/145954153/d7f63982-33b1-45c2-a399-97b1ecd65a96)
+
+
+JK flip flop:
+
+
+
+
+
+![jk wave](https://github.com/bsanjaykumar560/Experiment--05-Implementation-of-flipflops-using-verilog/assets/145954153/d0d56807-46e3-494f-a25c-f7ea28aa54c9)
+
+
+SR flip flop:
+
+
+
+
+![sr wave](https://github.com/bsanjaykumar560/Experiment--05-Implementation-of-flipflops-using-verilog/assets/145954153/0b5c8c11-e7ad-4657-a1e6-941317ee22fe)
 
 
 
